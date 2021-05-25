@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# NFT-MarketPlace-Front
-This is a sample implementation of NFT MarketPlace which works on Polygon(Matic) 
-=======
 # nft-marketplace
 
 > Marketplace for crypto assets
@@ -39,4 +35,3 @@ $ yarn run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
->>>>>>> origin/develop
