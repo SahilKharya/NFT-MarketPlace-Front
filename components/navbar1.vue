@@ -24,20 +24,18 @@
           </button>
           <div class="d-flex">
             <div class="d-flex">
-            <!--  <img
+              <img
                 src="~assets/img/open-sea-logo.svg"
                 alt="Open Sea Logo"
                 class="logo align-self-center"
               >
-			  -->
-			  <img src="https://vtlogo.com/wp-content/uploads/2020/08/tech-mahindra-limited-vector-logo.png" alt="TechM  Logo" class="logo align-self-center"/>
             </div>
             <div
               class="d-flex flex-column justify-content-center logo-desc-container"
             >
               <div>
-                <span class="logo-title">Tech Mahindra</span>
-                <span class="logo-product-name">NFT</span>
+                <span class="logo-title">OpenSea</span>
+                <span class="logo-product-name">L2</span>
                 <span class="tag">BETA</span>
               </div>
               <div class="logo-description">
